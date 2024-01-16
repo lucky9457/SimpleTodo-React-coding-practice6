@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.itemContainer {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+.delbtn {
+  color: red;
+  border: solid 1px red;
+  background-color: white;
+  width: 90px;
+  padding: 10px;
+  align-self: center;
+  border-radius: 10px;
+}
+.title {
+  color: black;
+  font-family: roboto;
+  font-size: 20px;
+}
